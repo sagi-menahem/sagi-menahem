@@ -45,15 +45,6 @@ I am a passionate software developer transforming complex problems into scalable
 | **[Harel Art Portfolio](https://github.com/sagi-menahem/Harel-Landing-Page)** | Interactive artist gallery featuring custom masonry layout and advanced animations. | `React` `Framer Motion` `TypeScript` |
 | **[RV Insurance](https://github.com/sagi-menahem/RV-Landing-Page)** | Production landing page achieving 100/100 Lighthouse performance scores. | `React` `TypeScript` `Vite` `SEO` |
 
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagi-menahem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Sagi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagi-menahem&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Sagi's Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
