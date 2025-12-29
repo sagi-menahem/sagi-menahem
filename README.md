@@ -1,29 +1,66 @@
-# Hello, I'm Sagi 👋
+# Hi there, I'm Sagi 👋
 
-🎓 **Currently**: I'm a fourth-year Computer Science student at the Open University of Israel.
+### Full Stack Developer | B.Sc. Computer Science Student (Final Year)
 
-🌱 **Learning**: Continuously exploring new technologies and improving my skills.
+I am a passionate software developer transforming complex problems into scalable, high-performance web applications. Currently finishing my degree at The Open University of Israel while working as a Freelance Web Developer.
 
-👯 **Collaboration**: Eager to connect and collaborate with fellow content creators and developers. Feel free to reach out!
-
-📫 **Contact**: www.linkedin.com/in/sagi-menahem
-
-📧 **Email**: sagiia1997@gmail.com
+- 🔭 **I’m currently working on:** Advanced Full Stack architectures using Spring Boot & React.
+- 🚀 **My main stack:** Java (Spring Boot), React (TypeScript), Docker, and Cloud/Linux infrastructure.
+- 👨‍💻 **Portfolio:** [Check out my work at sagimenahem.tech](https://www.sagimenahem.tech/)
+- 📫 **How to reach me:** [sagiia1997@gmail.com](mailto:sagiia1997@gmail.com)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+### 🛠️ Languages and Tools
+
+**Backend & Infrastructure:**
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<br/>
+
+**Frontend & Design:**
+<div align="left">
+  <img src="https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[SynchBoard](https://github.com/sagi-menahem/SynchBoard)** | Real-time collaborative whiteboard platform tailored for remote education and teams. | `Java` `Spring Boot` `React` `WebSockets` `Docker` |
+| **[3D Portfolio](https://github.com/sagi-menahem/Sagi-Menahem-Landing-Page)** | Immersive personal website featuring high-performance 3D visuals and custom scrolling engine. | `Astro` `React 19` `Three.js` `Tailwind v4` |
+| **[Harel Art Portfolio](https://github.com/sagi-menahem/Harel-Landing-Page)** | Interactive artist gallery featuring custom masonry layout and advanced animations. | `React` `Framer Motion` `TypeScript` |
+| **[RV Insurance](https://github.com/sagi-menahem/RV-Landing-Page)** | Production landing page achieving 100/100 Lighthouse performance scores. | `React` `TypeScript` `Vite` `SEO` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagi-menahem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Sagi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagi-menahem&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Sagi's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sagi-menahem" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://www.sagimenahem.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
+  </a>
 </div>
