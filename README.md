@@ -42,6 +42,7 @@
   | :--- | :--- | :--- |
   | **[SynchBoard](https://github.com/sagi-menahem/SynchBoard)** | Real-time collaborative whiteboard platform tailored for remote education and teams. | `Java` `Spring Boot` `React` `WebSockets` `Docker` |
   | **[3D Portfolio](https://github.com/sagi-menahem/Sagi-Menahem-Landing-Page)** | Immersive personal website featuring high-performance 3D visuals and custom scrolling engine. | `Astro` `React 19` `Three.js` `Tailwind v4` |
+  | **[AfterTech](https://github.com/sagi-menahem/AfterTech)** | Boutique web agency landing page with Aceternity-style animated UI, 3D globe, Hebrew RTL, and 90+ Lighthouse scores. | `Astro 5` `React 19` `Three.js` `Tailwind v4` `Framer Motion` |
   | **[Shani Amiga Clinic](https://github.com/sagi-menahem/Shani-Landing-Page)** | Luxury beauty clinic website with online booking, before & after showcase, and Git-based CMS. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
   | **[Harel Art Portfolio](https://github.com/sagi-menahem/Harel-Landing-Page)** | Interactive artist gallery featuring custom masonry layout and advanced animations. | `React` `Framer Motion` `TypeScript` |
   | **[Insurance Agent Demo](https://github.com/sagi-menahem/Ron-Landing-Page)** | A demo landing page for an independent insurance agent with Hebrew RTL support, lead generation forms, Keystatic CMS for content management, a comprehensive accessibility menu, and smooth scroll animations. Optimized for conversion with trust indicators and a multi-step consultation process. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
