@@ -1,11 +1,13 @@
 # Hi there, I'm Sagi 👋
 
-### Full Stack Developer | B.Sc. Computer Science Student (Final Year)
+### Full Stack Developer | AI-First Development | Open to Junior/Entry-Level Positions
 
-  I am a passionate software developer transforming complex problems into scalable, high-performance web applications. Currently finishing my degree at The Open University of Israel while working as a Freelance Web Developer.                                             
+  I build production web systems end-to-end — e-commerce with real payments, custom admin panels, and SaaS — as a freelance developer (AfterTech), while finishing my B.Sc. in Computer Science at The Open University of Israel (final semester, graduating 2026).
 
-  - 🔭 **I'm currently working on:** Advanced Full Stack architectures using Spring Boot & React.
-  - 🚀 **My main stack:** Java (Spring Boot), React (TypeScript), Docker, and Cloud/Linux infrastructure.
+  **How I build: AI-first.** I orchestrate AI coding agents (Claude Code, Codex) through a documented methodology — `AGENTS.md` as the single source of truth in every repo, guardrail scripts, and audit pipelines. Disciplined engineering at team-level velocity.
+
+  - 🔭 **I'm currently working on:** Production Next.js 16 + Supabase platforms and AI-agent development workflows.
+  - 🚀 **My main stack:** Next.js 16 / React 19 (TypeScript), Supabase + Drizzle, Java (Spring Boot), Docker.
   - 👨‍💻 **Portfolio:** [Check out my work at sagimenahem.tech](https://www.sagimenahem.tech/)
   - 📫 **How to reach me:** [sagiia1997@gmail.com](mailto:sagiia1997@gmail.com)
 
