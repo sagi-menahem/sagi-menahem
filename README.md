@@ -54,9 +54,9 @@
   | **[Maskiled Israel](https://github.com/sagi-menahem/Maskiled-Israel)** | Production e-commerce platform for an LED screens vendor — Hebrew RTL, WhatsApp-deep-link checkout, custom DB-backed CMS with role-based admin panel and TipTap rich-text editor. | `Next.js 16` `React 19` `TypeScript` `Supabase` `Drizzle` `Tailwind v4` |
   | **[3D Portfolio](https://github.com/sagi-menahem/Sagi-Menahem-Portfolio)** | Immersive personal website featuring high-performance 3D visuals and custom scrolling engine. | `Astro` `React 19` `Three.js` `Tailwind v4` |
   | **[AfterTech](https://github.com/sagi-menahem/AfterTech)** | Boutique web agency landing page with Aceternity-style animated UI, 3D globe, Hebrew RTL, and 90+ Lighthouse scores. | `Astro 5` `React 19` `Three.js` `Tailwind v4` `Framer Motion` |
-  | **[Shani Amiga Clinic](https://github.com/sagi-menahem/Shani-Landing-Page)** | Luxury beauty clinic website with online booking, before & after showcase, and Git-based CMS. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
+  | **[Shani Amiga Clinic](https://github.com/sagi-menahem/Shani-Cosmetics-Landing-Page)** | Luxury beauty clinic website with online booking, before & after showcase, and Git-based CMS. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
   | **[Harel Art Portfolio](https://github.com/sagi-menahem/Harel-Landing-Page)** | Interactive artist gallery featuring custom masonry layout and advanced animations. | `React` `Framer Motion` `TypeScript` |
-  | **[Insurance Agent Demo](https://github.com/sagi-menahem/Ron-Landing-Page)** | A demo landing page for an independent insurance agent with Hebrew RTL support, lead generation forms, Keystatic CMS for content management, a comprehensive accessibility menu, and smooth scroll animations. Optimized for conversion with trust indicators and a multi-step consultation process. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
+  | **[Insurance Agent Demo](https://github.com/sagi-menahem/RV-Landing-Page)** | A demo landing page for an independent insurance agent with Hebrew RTL support, lead generation forms, Keystatic CMS for content management, a comprehensive accessibility menu, and smooth scroll animations. Optimized for conversion with trust indicators and a multi-step consultation process. | `Astro` `React 19` `Tailwind v4` `Keystatic` |
 
   <br/>
 
