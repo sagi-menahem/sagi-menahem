@@ -4,9 +4,9 @@
 
   I build production web systems end-to-end — e-commerce with real payments, custom admin panels, and SaaS — as a freelance developer (AfterTech), while finishing my B.Sc. in Computer Science at The Open University of Israel (final semester, graduating 2026).
 
-  **How I build: AI-first.** I orchestrate AI coding agents (Claude Code, Codex) through a documented methodology — `AGENTS.md` as the single source of truth in every repo, guardrail scripts, and audit pipelines. Disciplined engineering at team-level velocity.
+  **I build LLM features into production, not demos.** The support agent behind my client portal answers from a hybrid retrieval stack — pgvector similarity fused with Postgres full-text ranking via Reciprocal Rank Fusion, then an LLM reranker that drops passages which do not answer the question, so the agent grounds on real sources or says it does not know. Development is AI-assisted, held to the same review, guardrail and audit discipline as any other code.
 
-  - 🔭 **I'm currently working on:** Production Next.js 16 + Supabase platforms and AI-agent development workflows.
+  - 🔭 **I'm currently working on:** Production Next.js 16 + Supabase platforms, and RAG/agent features on top of them.
   - 🚀 **My main stack:** Next.js 16 / React 19 (TypeScript), Supabase + Drizzle, Java (Spring Boot), Docker.
   - 👨‍💻 **Portfolio:** [Check out my work at sagimenahem.tech](https://www.sagimenahem.tech/)
   - 📫 **How to reach me:** [sagiia1997@gmail.com](mailto:sagiia1997@gmail.com)
