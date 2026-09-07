@@ -1,4 +1,4 @@
-![Sagi Menahem — founder of AfterTech](assets/brand/banner.svg)
+![Sagi Menahem — founder of AfterTech](assets/brand/banner.png)
 
 # Sagi Menahem
 
