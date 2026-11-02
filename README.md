@@ -25,6 +25,11 @@ A football ticket and travel platform with payment verification, order managemen
 
 An artist-managed website with a content system, enquiry workflows and a wall preview that displays artwork at its true physical size.
 
+### [The Backyard](https://github.com/sagi-menahem/TheBackyard-Landing-Page)
+**Client project · Events venue site & CMS**
+
+One site and admin replacing three WordPress sites for a three-venue events business, with CRM lead delivery and a verified migration of every legacy URL.
+
 ### [AfterTech](https://github.com/sagi-menahem/AfterTech)
 **Business website · Services & selected work**
 
