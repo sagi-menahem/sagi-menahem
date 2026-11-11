@@ -6,7 +6,7 @@
 
 I build websites and custom software for businesses in Israel through [AfterTech](https://www.after-tech.co.il/). Clients work directly with me, from requirements and architecture to implementation, launch and ongoing maintenance.
 
-[AfterTech](https://www.after-tech.co.il/) · [Personal portfolio](https://www.sagimenahem.tech/) · [LinkedIn](https://www.linkedin.com/in/sagi-menahem/) · [Get in touch](mailto:sagiia1997@gmail.com)
+[AfterTech](https://www.after-tech.co.il/) · [Personal portfolio](https://www.sagimenahem.com/) · [LinkedIn](https://www.linkedin.com/in/sagi-menahem/) · [Get in touch](mailto:sagiia1997@gmail.com)
 
 ## Selected work
 
